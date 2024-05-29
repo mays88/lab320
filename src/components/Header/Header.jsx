@@ -1,4 +1,13 @@
+import styled from "styled-components";
+
+const Head = styled.h3`
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    align-content: center;
+`;
+
 function Header() {
-    return <h3>Employee Directory</h3>;
+    return <Head>Employee Directory</Head>;
 }
 export default Header;
