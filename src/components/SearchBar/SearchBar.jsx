@@ -8,7 +8,7 @@ const Search = styled.input`
 function SearchBar() {
     return (
         <>
-            <Search type="search" />
+            <Search type="search" placeholder="Search" />
         </>
     );
 }

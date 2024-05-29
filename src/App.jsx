@@ -5,7 +5,7 @@ import styled from "styled-components";
 const Container = styled.div`
     margin: auto;
     width: 18.75rem;
-    border: 2px solid black;
+    border: 0.13em solid black;
 `;
 function App() {
     return (

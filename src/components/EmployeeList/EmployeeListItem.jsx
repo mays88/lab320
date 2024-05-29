@@ -2,8 +2,9 @@ import styled from "styled-components";
 
 const ELIContainer = styled.div`
     display: flex;
-    gap: 10px;
-    padding: 5px;
+    gap: 0.63em;
+    padding: 0.33em;
+    border: 1px solid #d4d4d4;
 `;
 
 const EmployeeListImage = styled.img`
